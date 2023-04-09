@@ -1,0 +1,11 @@
+age,income,education,employment,marital_status,gender
+35,75000,Master,Employed,Single,Male
+45,95000,PhD,Employed,Married,Female
+30,50000,Bachelor,Unemployed,Single,Male
+28,40000,High school,Employed,Single,Female
+50,120000,Master,Employed,Married,Male
+22,30000,High school,Unemployed,Single,Female
+38,80000,Bachelor,Employed,Married,Male
+27,35000,High school,Unemployed,Single,Male
+42,90000,PhD,Employed,Married,Female
+32,65000,Master,Employed,Married,Male
