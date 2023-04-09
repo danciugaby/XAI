@@ -28,10 +28,6 @@ To run the code, you need to have the following libraries installed:
 - shap
 - scikit-learn
 
-You can install them using the following command:
-
-```sh
-pip install -r requirements.txt
 
 ## Usage
 
