@@ -14,5 +14,9 @@ The repository contains the following files:
 - `LSM.py`: Python script containing the code for the LocalSurrogateModels.
 - `process.py`: sample to encode various types of data.
 - `vizualization.py`: script that provide the shap values.
-- `main.py`: script that contains a samle of using entire flow.
+- `main.py`: script that contains a sample of using entire flow.
 - `data.csv`: generated data for testing purposes.
+
+## Usage
+
+
