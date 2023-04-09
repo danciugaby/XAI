@@ -17,6 +17,35 @@ The repository contains the following files:
 - `main.py`: script that contains a sample of using entire flow.
 - `data.csv`: generated data for testing purposes.
 
+
+## Requirements
+
+To run the code, you need to have the following libraries installed:
+
+- pandas
+- numpy
+- matplotlib
+- shap
+- scikit-learn
+
+You can install them using the following command:
+
+```sh
+pip install -r requirements.txt
+
 ## Usage
 
+# Create a virtual environment
+python3 -m venv venv
 
+# Activate the virtual environment
+source venv/bin/activate
+
+# Install the required packages
+pip install -r Requirements.txt
+
+# Run the code
+python main.py
+
+# Deactivate the virtual environment
+deactivate
