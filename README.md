@@ -31,17 +31,17 @@ To run the code, you need to have the following libraries installed:
 
 ## Usage
 
-# Create a virtual environment
+### Create a virtual environment
 python3 -m venv venv
 
-# Activate the virtual environment
+### Activate the virtual environment
 source venv/bin/activate
 
-# Install the required packages
+### Install the required packages
 pip install -r Requirements.txt
 
-# Run the code
+### Run the code
 python main.py
 
-# Deactivate the virtual environment
+### Deactivate the virtual environment
 deactivate
